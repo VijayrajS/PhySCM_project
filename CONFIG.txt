@@ -1,0 +1,5 @@
+regressison_alpha: 0.01
+regressison_delta: 1e-3
+temperature: 300
+dt: 4e-15
+n_frames: 2000
